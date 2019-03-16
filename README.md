@@ -3,7 +3,9 @@
 Makes an array of pets
 
 ## ScreenShots
-![image of pets]
+![image of pets](
+        https://github.com/Dannyboy85/pet-adoption/blob/master/pics/categ.png
+      )
 
 ## getting started
 ```
