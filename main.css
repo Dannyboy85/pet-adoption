@@ -1,0 +1,66 @@
+body{
+    background-color: aqua
+ }
+ header{
+    line-height: 1.2em;
+    border:1px chocolate;
+    flex-direction: column;
+    text-align: center;
+ }
+ #pets{
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: space-around;
+ 
+ }
+ #pets img{
+    width: 200px;
+ 
+ }
+ .card{
+    border: 8px solid burlywood;
+    width: 400px;
+    margin: 20px;
+    display:flex;
+    flex-direction:column;
+    /* justify-content: center; */
+    align-items:center;
+    background-color: rgb(107, 189, 132)
+ }
+ #type-buttons{
+    display: flex;
+    justify-content: center;
+    
+ }
+ #dog{
+     background-color: blue;
+     color: white;
+    padding: 15px 32px;
+ }
+ #cat{
+    background-color: red;
+    color: white;
+    padding: 15px 32px;
+}
+#dino{
+    background-color: black;
+    color: white;
+    padding: 15px 32px;
+}
+#All{
+    background-color: green;
+    color: white;
+    padding: 15px 32px;
+}
+
+.footer{
+
+    border:1px solid salmon;
+    border-style: solid;
+    width: 470px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin-top:auto;
+ }
